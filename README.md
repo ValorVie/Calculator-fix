@@ -4,6 +4,7 @@ The name might be "Calculator" or "小算盤".
 ![pic/1.png](pic/1.png)
 
 ![pic/2.png](pic/2.png)
+
 If this does not solve the problem.
 
 ## Reinstall
